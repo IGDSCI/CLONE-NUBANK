@@ -1,6 +1,6 @@
 # CLONE-NUBANK
 ## Desenvolvi este projeto pessoal com o objetivo de consolidar os conhecimentos adquiridos em HTML, CSS e JS. Escolhi o site da NuBank devido a sua estética moderna e minimalista
-# Imagens do site
+# Imagens do site:
 ![image](https://github.com/IGDSCI/CLONE-NUBANK/assets/114839208/d9ff2d1e-8c7c-4c1c-9509-433f8e91a9f7)
 ![image](https://github.com/IGDSCI/CLONE-NUBANK/assets/114839208/a248d207-8fac-4d11-9adc-72ddafde350e)
 ![image](https://github.com/IGDSCI/CLONE-NUBANK/assets/114839208/abd1d5b5-63f2-43b7-8742-c04dd1fdca56)
